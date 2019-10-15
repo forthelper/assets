@@ -1,5 +1,9 @@
 {
-	"coordinates": "2956/2705",
-  "list": "Week 1 - letter F",
-  "hover": "Letter F"
+  "points": [
+    {
+      "coordinates": "2956/2705",
+      "list": "Week 1 - letter F",
+      "hover": "Letter F"
+    }
+  ]
 }
