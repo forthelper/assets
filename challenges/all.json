@@ -145,5 +145,299 @@
         "objective": "1"
       }
     ]
+  },
+  "4":{
+    "Challenges": [
+      {
+        "description": "Land at Frenzy Farm, Slurpy Swamp, and Sweaty Sands",
+        "objective": "3"
+      },
+      {
+        "description": "Harvest 500 wood, 400 stone, and 300 metal",
+        "objective": "3"
+      },
+      {
+        "description": "Eliminations at Frenzy Farm or Sweaty Sands",
+        "objective": "3"
+      },
+      {
+        "description": "Search chests at Pleasant Park or Lazy Lake",
+        "objective": "7"
+      },
+      {
+        "description": "Consume Foraged Items",
+        "objective": "10"
+      },
+      {
+        "description": "Deal damage to opponents with Pickaxes",
+        "objective": "100"
+      },
+      {
+        "description": "Hit 5 consecutive weak points while harvesting materials",
+        "objective": "1"
+      },
+      {
+        "description": "Hit Headshots",
+        "objective": "10"
+      },
+      {
+        "description": "Visit Landmarks in a single match",
+        "objective": "5"
+      },
+      {
+        "description": "Eliminations in different matches",
+        "objective": "5"
+      },
+      {
+        "description": "Search the hidden \\'I\\' found in the Hunter and the Hunted Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "Hunter and the Hunted"
+  },
+  "5": {
+    "Challenges": [
+      {
+        "description": "Search Chests at E.G.O. outposts",
+        "objective": "7"
+      },
+      {
+        "description": "Deal damage to opponents while riding in a Motorboat",
+        "objective": "500"
+      },
+      {
+        "description": "Visit different E.G.O. outposts",
+        "objective": "5"
+      },
+      {
+        "description": "Assault Rifle Eliminations ",
+        "objective": "3"
+      },
+      {
+        "description": "Revive a teammate in different matches",
+        "objective": "3"
+      },
+      {
+        "description": "Search Ammo Boxes in different Named Locations",
+        "objective": "7"
+      },
+      {
+        "description": "Heal teammates with a Bandage Bazooka",
+        "objective": "200"
+      },
+      {
+        "description": "Eliminations at Craggy Cliffs or Salty Springs",
+        "objective": "3"
+      },
+      {
+        "description": "Reboot a teammate",
+        "objective": "1"
+      },
+      {
+        "description": "Assist teammates with Eliminations",
+        "objective": "7"
+      },
+      {
+        "description": "Search the hidden 'N' found in the The Lowdown Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "The Lowdown"
+  },
+  "6": {
+    "Challenges": [
+      {
+        "description": "Eliminations at Pleasant Park or Dirty Docks",
+        "objective": "3"
+      },
+      {
+        "description": "Search chests at Dirty Docks or Salty Springs",
+        "objective": "7"
+      },
+      {
+        "description": "Deal damage with Sniper Rifles to opponents",
+        "objective": "250"
+      },
+      {
+        "description": "Jump a Motorboat through different flaming rings",
+        "objective": "3"
+      },
+      {
+        "description": "Destroy gas pumps in different matches",
+        "objective": "3"
+      },
+      {
+        "description": "Visit the Boat Launch, the Coral Cove, and the Flopper Pond",
+        "objective": "3"
+      },
+      {
+        "description": "Deal damage to enemy structures with Explosive Weapons",
+        "objective": "1000"
+      },
+      {
+        "description": "Deal damage to opponents from above",
+        "objective": "250"
+      },
+      {
+        "description": "Land at Weeping Woods, Lazy Lake, and Pleasant Park",
+        "objective": "3"
+      },
+      {
+        "description": "Explosive Weapons Eliminations",
+        "objective": "2"
+      },
+      {
+        "description": "Search the hidden 'T' found in the Dockyard Deal Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "Dockyard Deal"
+  },
+  "7": {
+    "Challenges": [
+      {
+        "description": "Eliminations while at 50 Health or less",
+        "objective": "2"
+      },
+      {
+        "description": "Consume Foraged apples at The Orchard",
+        "objective": "3"
+      },
+      {
+        "description": "Eliminations at Weeping Woods or a Landmark",
+        "objective": "3"
+      },
+      {
+        "description": "Dance at the Pipeman, the Hayman, and the Timber Tent",
+        "objective": "1"
+      },
+      {
+        "description": "Gain Health with a Small Fry, a Flopper and a Slurp Fish",
+        "objective": "1"
+      },
+      {
+        "description": "Eliminations with Pistols",
+        "objective": "3"
+      },
+      {
+        "description": "Visit Named Locations in a single match",
+        "objective": "3"
+      },
+      {
+        "description": "Damage with Shotguns",
+        "objective": "500"
+      },
+      {
+        "description": "Save yourself from fall damage by landing in a Hideout",
+        "objective": "1"
+      },
+      {
+        "description": "Heal yourself within 10 seconds after taking damage from an opponent",
+        "objective": "1"
+      },
+      {
+        "description": "Search the hidden 'T' in the Trick Shot Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "Trick Shot"
+  },
+  "8":{
+    "Challenges": [
+      {
+        "description": "Deal damage to descending Supply Drops",
+        "objective": "200"
+      },
+      {
+        "description": "Eliminations at Hydro 16 or Holly Hedges",
+        "objective": "3"
+      },
+      {
+        "description": "Search a Supply Drop within 10 seconds of it landing",
+        "objective": "3"
+      },
+      {
+        "description": "Complete the swimming time trials at Lazy Lake and East of Hydro 16",
+        "objective": "2"
+      },
+      {
+        "description": "Eliminations without aiming down sights",
+        "objective": "3"
+      },
+      {
+        "description": "Pull an item, pull an opponent, and catch a fish using a Harpoon Gun",
+        "objective": "3"
+      },
+      {
+        "description": "Deal damage to opponents within 30 seconds of using a glider",
+        "objective": "1"
+      },
+      {
+        "description": "Search 2 chests within 30 seconds of each other",
+        "objective": "3"
+      },
+      {
+        "description": "Harvest wood within 60 seconds after landing from the Battle Bus in a single match",
+        "objective": "300"
+      },
+      {
+        "description": "Deal damage with 2 different weapons within 30 seconds",
+        "objective": "1"
+      },
+      {
+        "description": "Search the hidden 'E' found in the Dive! Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "Dive!"
+  },
+  "9":{
+    "Challenges": [
+      {
+        "description": "Search Ammo Boxes at Steamy Stacks or Holly Hedges",
+        "objective": "7"
+      },
+      {
+        "description": "Skydive through rings in Steamy Stacks",
+        "objective": "1"
+      },
+      {
+        "description": "Complete a Motorboat time trial",
+        "objective": "1"
+      },
+      {
+        "description": "Deal damage to opponents from below",
+        "objective": "250"
+      },
+      {
+        "description": "Dance at the Green Steel Bridge, the Yellow Steel Bridge, and the Red Steel Bridge",
+        "objective": "1"
+      },
+      {
+        "description": "Eliminations with Shotguns",
+        "objective": "3"
+      },
+      {
+        "description": "Use a Zipline in different matches",
+        "objective": "2"
+      },
+      {
+        "description": "Eliminations from within 5 meters",
+        "objective": "3"
+      },
+      {
+        "description": "Search Chests in a single match",
+        "objective": "5"
+      },
+      {
+        "description": "Deal damage to opponents while in water",
+        "objective": "500"
+      },
+      {
+        "description": "Search the XP Drop hidden in the Chaos Rising Loading Screen",
+        "objective": "1"
+      }
+    ],
+    "Title": "Chaos Rising"
   }
 }
